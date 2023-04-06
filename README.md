@@ -155,31 +155,37 @@ plt.show()
 ## Output:
 
 
+![image](https://user-images.githubusercontent.com/94165326/230329822-95c26190-3b2b-45b8-b00f-9d2585327926.png)
 
 ### i)Image Translation
 
+![image](https://user-images.githubusercontent.com/94165326/230329911-c513fd88-dc9b-4bc3-8fe8-8a164d7bcbb2.png)
 
 
 
 
 ### ii) Image Scaling
 
+![image](https://user-images.githubusercontent.com/94165326/230329997-889c20c3-208f-4f47-93f6-cf97b85a30b3.png)
+
 
 ### iii)Image shearing
+
+![image](https://user-images.githubusercontent.com/94165326/230330143-a2fd74d8-88cb-424a-89e1-4ef661affb86.png)
 
 
 ### iv)Image Reflection
 
+![image](https://user-images.githubusercontent.com/94165326/230330245-a65940b8-b703-4567-b27b-2fea6ef3b804.png)
+
+
 ### v)Image Rotation
+
+![image](https://user-images.githubusercontent.com/94165326/230330578-95a2ad7f-fd06-4262-a690-5e7c50640151.png)
 
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
-
-
+![image](https://user-images.githubusercontent.com/94165326/230330577-deb56677-23cc-4f46-a323-01786a3008a8.png)
 
 
 ## Result: 
