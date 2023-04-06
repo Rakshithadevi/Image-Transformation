@@ -6,6 +6,7 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
+```
 ### Step 1: Import the necessary libraries and read the original image and save it as a image variable.
 
 ### Step 2: Translate the image.
@@ -24,6 +25,7 @@ Anaconda - Python 3.7
 ### Step 7: Crop the image.
 
 ### Step 8: Display all the Transformed images.
+```
 
 ## Program:
 ```
