@@ -73,6 +73,7 @@ plt.show()
 
 
 
+
 iii)Image shearing
 ```
 import cv2
